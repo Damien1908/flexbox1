@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.flex-item{
+    border: burlywood 3px solid;
+    background-color: orangered;
+    
+}
